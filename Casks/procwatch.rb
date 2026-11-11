@@ -1,6 +1,6 @@
 cask "procwatch" do
-  version "0.1.0"
-  sha256 "6fd695d3dd0be8752d58fc8760d23516ab38dd07c4677fb29a1909463a37af2b"
+  version "0.2.0"
+  sha256 "d8162348f47d8bda1f873560ecd535624251e5b1d713ff39db90749a7ffd6f55"
 
   url "https://github.com/Nharu/procwatch/releases/download/v#{version}/procwatch-#{version}.zip"
   name "procwatch"
